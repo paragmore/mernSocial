@@ -1,1 +1,0 @@
-export const MONGO_URL = 'mongodb+srv://parag:7iw5r9CBFfXHZN3@cluster0.qcwgq.mongodb.net/<dbname>?retryWrites=true&w=majority'
